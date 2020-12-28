@@ -1,0 +1,43 @@
+{
+    "name": "reactjs-jsx",
+    "displayName": "reactjs jsx",
+    "description": "code snippet for reactjs jsx",
+    "version": "1.0.0",
+    "icon": "logo.png",
+    "author": {
+		"name": "Vishal Singh",
+		"url": "https://vishal.me"
+    },
+    "repository": {
+		"type": "git",
+		"url": "https://github.com/Vishal-178/reactjs-jsx.git"
+    },
+    "publisher": "vishalsingh",
+    "keywords": [
+		"reactjs snippets",
+		"Reactjs Snippets",
+		"React Snippets",
+		"snippets",
+		"react snippets",
+		"Snippets",
+		"react",
+		"reactjs",
+		"react snippet",
+		"snippets",
+		"snippet"
+	],
+    "engines": {
+        "vscode": "^1.52.0"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "javascript",
+                "path": "./snippets/snippets.code-snippets"
+            }
+        ]
+    }
+}

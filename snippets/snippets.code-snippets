@@ -1,0 +1,7 @@
+{
+    "div": {
+        "prefix": "div", 
+        "body": ["<div>$1</div>"],
+        "description": "<div></div>"
+    }
+}
